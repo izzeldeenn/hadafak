@@ -1,5 +1,5 @@
 ﻿
-![Logo]([https://i.postimg.cc/c4FcFPRd/image.png](https://i.postimg.cc/VknTyJZJ/image.png))
+![Logo](https://i.postimg.cc/VknTyJZJ/image.png)
 
 # منصة هدفك  
 
